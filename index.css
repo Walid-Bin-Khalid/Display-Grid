@@ -9,12 +9,16 @@ body{
     grid-template-columns: 500px 500px ;
     
     /* Regular */
-    /* height: 260px;  */
-    width: 960px;
-    /* align-items: center; */
     margin: 10px; padding: 10px; 
     border: 15px solid rgb(255, 0, 0);
+    
+    /* miss leading layout */
+    /* height: 260px; 
+    width: 960px; */
+    /* align-items: center; */
+    
 }
+
 .container{
     /* Main */ 
     /* Regular */
@@ -22,7 +26,7 @@ body{
     height: 260px; width: 360px;
     margin: 05px; padding: 5px; 
     border: 25px solid rgba(251, 255, 0, 0.966);
- 
+    
 }
 
 #container-1{
@@ -59,3 +63,4 @@ body{
     grid-column: 1/2;
     
 }
+
